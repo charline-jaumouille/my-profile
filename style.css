@@ -1,0 +1,73 @@
+body {
+background: rgb(178,216,216);
+color: black;
+font-family: georgia;
+line-height: 20px;
+}
+
+#photo-profil {
+	border-radius: 45%; 
+	width: 180px;
+	height: 200px;
+}
+
+.wagon-custom {
+	color: rgb(102,178,178);
+	text-decoration: none;
+	transition: color 0,3s ease;
+	font-size: 25px;
+}
+
+.wagon-custom:hover {
+	color: rgb(0,102,102);
+	text-decoration: none;
+	font-size: 25px;
+}
+
+div {
+	background: rgb(178,216,216);
+	text-align: center;
+
+}
+#container {
+	width: 700px;
+	margin: 40px auto;
+
+}
+.card {
+	
+	background-color: white;
+	padding: 5px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,1);
+	border-radius: 4px;
+	margin: 15px;
+	text-align: center;
+	}
+
+.list-inline {
+	list-style: none; 
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px
+}
+
+.list-inline i {
+	color: rgb(102,178,178);
+	font-size: 50px
+}
+.list-inline i:hover {
+	color: rgb(0,102,102);
+	font-size: 50px;
+
+}
+
+
+
+
+
+
+
+
+
